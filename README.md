@@ -1,4 +1,4 @@
-# momentum-project
+# TodoList
 
 노마드코더의 '바닐라JS로 크롬 앱 만들기' 수업을 듣고 제작한 프로젝트입니다.
 
